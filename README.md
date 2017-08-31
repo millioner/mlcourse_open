@@ -1,4 +1,6 @@
-## Открытый курс OpenDataScience по машинному обучению
+## Открытый курс OpenDataScience по машинному обучению (форк основного репозитория с личными изменениями)
+
+#OpenDataScience course repo. (personal fork)
 ![ODS stickers](https://github.com/Yorko/mlcourse_open/blob/master/img/ods_stickers.jpg)
 
 :exclamation: Старт нового курса – 6 сентября 2017 г. [Веб-форма](https://goo.gl/RzGN3L) для участия :exclamation:
